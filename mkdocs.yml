@@ -1,3 +1,11 @@
-site_name: 申丰铭的小屋
+site_name: Fengming Shen's home
+site_url: https://shen-fengming.github.io
+site_author: Fengming Shen
+site_description: Fengming Shen's personal website
+
+#[Navigation]
+nav:
+  - 日记:
+    - Todays/index.md
 theme:
   name: material
